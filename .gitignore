@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+starter/aclImdb/
+starter/aclImdb_v1.tar.gz
+starter/*-Copy*.ipynb
+output.png

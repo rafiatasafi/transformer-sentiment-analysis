@@ -1,0 +1,9 @@
+SentimentScope results
+Train/validation/test reviews: 22500/2500/25000
+Best epoch: 2
+Selected checkpoint validation accuracy: 76.60%
+Test accuracy: 75.35%
+Test loss: 0.4928
+Target >75% achieved: True
+
+Takeaways: Padding-aware pooling produces a review-level representation. Validation-based checkpoint selection keeps the test set out of training decisions.
